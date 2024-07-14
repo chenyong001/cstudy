@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uQRD88tG6cZ1voKkS8n9IsFwadqX5PpnEu1+juWerJAuRKdqCAI0KBeBgww6AUe99v9kSx5RYXpLBDYqmLThMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\cstudy\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\mstest.testframework\\3.4.3\\mstest.testframework.3.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}

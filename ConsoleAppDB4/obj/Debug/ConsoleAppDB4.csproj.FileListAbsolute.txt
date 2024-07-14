@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\WebApplication1\ConsoleAppDB4\bin\Debug\ConsoleAppDB4.exe.config
+C:\Users\Administrator\source\repos\WebApplication1\ConsoleAppDB4\bin\Debug\ConsoleAppDB4.exe
+C:\Users\Administrator\source\repos\WebApplication1\ConsoleAppDB4\bin\Debug\ConsoleAppDB4.pdb
+C:\Users\Administrator\source\repos\WebApplication1\ConsoleAppDB4\obj\Debug\ConsoleAppDB4.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\WebApplication1\ConsoleAppDB4\obj\Debug\ConsoleAppDB4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WebApplication1\ConsoleAppDB4\obj\Debug\ConsoleAppDB4.exe
+C:\Users\Administrator\source\repos\WebApplication1\ConsoleAppDB4\obj\Debug\ConsoleAppDB4.pdb
+C:\Users\Administrator\source\repos\cstudy\ConsoleAppDB4\bin\Debug\ConsoleAppDB4.exe.config
+C:\Users\Administrator\source\repos\cstudy\ConsoleAppDB4\bin\Debug\ConsoleAppDB4.exe
+C:\Users\Administrator\source\repos\cstudy\ConsoleAppDB4\bin\Debug\ConsoleAppDB4.pdb
+C:\Users\Administrator\source\repos\cstudy\ConsoleAppDB4\obj\Debug\ConsoleAppDB4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\cstudy\ConsoleAppDB4\obj\Debug\ConsoleAppDB4.exe
+C:\Users\Administrator\source\repos\cstudy\ConsoleAppDB4\obj\Debug\ConsoleAppDB4.pdb
